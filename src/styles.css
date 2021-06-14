@@ -1,0 +1,28 @@
+.Link {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+nav {
+  text-align: center;
+}
+.button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.but {
+  text-align: center;
+}
+.form1 {
+  margin-right: 20px;
+  text-align: center;
+}
+.form2 {
+  margin-right: 21px;
+  text-align: center;
+}
+header {
+  padding: 1%;
+  background: rgb(163, 161, 161);
+  font-size: 40px;
+}
